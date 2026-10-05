@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "charliermarsh.ruff",
+    "ms-pyright.pyright"
+  ],
+  "unwantedRecommendations": []
+}
