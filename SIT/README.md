@@ -4,7 +4,7 @@
 
 ## Table of content
 
-| S.No. |   Date    | Description |      link      |
-| :---: | :-------: | :---------- | :------------: |
-|  01   | 22/SEP/26 | **Quiz**:   | [click](/SIT/) |
-|  01   | 06/SEP/26 |             | [click](/SIT/) |
+| S.No. |   Date    | Description |             link             |
+| :---: | :-------: | :---------- | :--------------------------: |
+|  01   | 22/SEP/26 | **Quiz**:   | [click](/SIT/quiz/README.md) |
+|  01   | 06/SEP/26 |             |        [click](/SIT/)        |
