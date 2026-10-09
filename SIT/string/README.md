@@ -12,10 +12,10 @@ string
 
 ### Date: 09-Oct-2026
 
-| S.No. | Questions                                                                                     | code                 |
-| ----- | --------------------------------------------------------------------------------------------- | -------------------- |
-| 1.    | Wap to input a string and toggle the cases (_convert uppercase to lowercase and via versa_).  | [code](09_oct.py#L1) |
-| 2.    | Wap to create a list of fruits name, and check how many are more then 5 characters in length. | [code](09_oct.py#L1) |
-| 3.    | WAP to create a string and return the position of vowels,whenever found.                      | [code](09_oct.py#L1) |
-| 4.    | WAP to create a string and replace all vowels with `0` **zero**.                              | [code](09_oct.py#L1) |
-| 5.    | WAP to input a string and print the \_\_ in pyramid effect                                    | [code](09_oct.py#L1) |
+| S.No. | Questions                                                                                     | code                  |
+| ----- | --------------------------------------------------------------------------------------------- | --------------------- |
+| 1.    | Wap to input a string and toggle the cases (_convert uppercase to lowercase and via versa_).  | [code](09_oct.py#L1)  |
+| 2.    | Wap to create a list of fruits name, and check how many are more then 5 characters in length. | [code](09_oct.py#L18) |
+| 3.    | WAP to create a string and return the position of vowels,whenever found.                      | [code](09_oct.py#L28) |
+| 4.    | WAP to create a string and replace all vowels with `0` **zero**.                              | [code](09_oct.py#L39) |
+| 5.    | WAP to input a string and print the \_\_ in pyramid effect                                    | [code](09_oct.py#L50) |
